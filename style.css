@@ -1,3 +1,12 @@
-h2{
-    color: aqua;
+h1{
+    color:blue;
+    background-color: cornsilk;
+}
+
+body {
+    background-color: palevioletred;
+}
+button{
+    background-color: aqua;
+    color: red;
 }
